@@ -15,7 +15,7 @@ The dataset was download from the kaggle page : https://www.kaggle.com/datasets/
 Also, there is a notebook with all the analysis made for answering the questions proposed.
 
 ### Results
-Results were reported in the following medium post: .
+Results were reported in the following medium post: https://medium.com/@ester.fiorillo01/an-airbnb-data-analysis-for-people-interested-in-traveling-to-seattle-99dc57f1538
 
 ### Licensing, Authors, Acknowledgements
 I would like to thank Kaggle and Airbnb for the provided data. Feel free to use the analysis!
